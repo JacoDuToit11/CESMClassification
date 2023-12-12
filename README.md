@@ -1,5 +1,5 @@
 # Hierarchical text categorization of South African research outputs #
-This objective of this project is to build a hierachical text classifier for South African research outputs. We consider different feature extraction methods to obtain a semantic representation of the text document which comprises the title and abstract of a research output. We evalaute several classifier architectures which include Convolutional Neural Networks, Recurrent Neural networks and attention mechanisms.
+This objective of this project is to build a hierachical text classifier for South African research outputs. We consider different feature extraction methods to obtain a semantic representation of the text document which comprises the title and abstract of a research output. We evaluate several classifier architectures which include Convolutional Neural Networks, Recurrent Neural networks and attention mechanisms.
 
 ## Install dependencies ##
     $pip install -r requirements.txt
